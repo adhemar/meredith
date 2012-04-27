@@ -1,0 +1,7 @@
+name = Meredith
+description = Empty theme.
+version = VERSION
+core = 7.x
+base theme = stark
+
+stylesheets[all][] = meredith.css
